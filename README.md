@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Gramlis
 - 👀 I’m interested in programming websites with Python and Django
 - 🌱 I’m currently learning Python and Django
-- 💞️ I’m looking to friends that can help me and teach me more
 - 📫 I’m from Czech Republic
 
 <!---
